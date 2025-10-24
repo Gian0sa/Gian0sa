@@ -18,69 +18,68 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/gian-pee/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Gian Peer" height="30" width="40" /></a>
-  <a href="https://www.facebook.com/gian.peer" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="Gian Peer" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/gian_.pr/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="Gian_.pr" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/gian-pee/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="LinkedIn" height="30" width="40" /></a>
+  <a href="https://www.facebook.com/gian.peer" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
+      alt="Facebook" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/gian_.pr/" target="blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="Instagram" height="30" width="40" /></a>
 
 </p>
 
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript" width="40" height="40" /> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python"
-      width="40" height="40" /> </a> 
-  <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40"
-      height="40" /> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"
-      height="40" /> </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40" />
-  </a> 
-  
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-      alt="bootstrap" width="40" height="40" /> </a> 
-  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg"
-      alt="dotnet" width="40" height="40" /> </a>
-  
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
-      alt="mssqlserver" width="40" height="40" /> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb" width="40" height="40" /> </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original-wordmark.svg"
-      alt="sqlite" width="40" height="40" /> </a>
+<p align="left"> 
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="java" width="40"
+      height="40" /> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+    rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+      alt="javascript" width="40" height="40" /> </a> 
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"
+      alt="typescript" width="40" height="40" /> </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python"
+      width="40" height="40" /> </a> 
+  <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40"
+      height="40" /> </a>
+  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="40"
+      height="40" /> </a>
+  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40" />
+  </a> 
+  
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"
+      alt="react" width="40" height="40" /> </a> 
+  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg"
+      alt="bootstrap" width="40" height="40" /> </a> 
+  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg"
+      alt="dotnet" width="40" height="40" /> </a>
+  
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg"
+      alt="mssqlserver" width="40" height="40" /> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql" width="40" height="40" /> </a> 
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"
+      alt="mongodb" width="40" height="40" /> </a>
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg"
+      alt="sqlite" width="40" height="40" /> </a>
 </p>
-
 <br>
 
 <h3>Statistical Data :-</h3>

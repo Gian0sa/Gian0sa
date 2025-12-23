@@ -5,8 +5,12 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
-
+<h3 align="left">🌐 Portfolio</h3>
+<p align="left">
+  <a href="https://gianpedev-portafolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+  </a>
+</p>
 
 - 🌱 I’m currently learning Web Development and other programming languages
 

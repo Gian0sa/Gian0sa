@@ -5,19 +5,20 @@
 
 <br>
 
-<h3 align="left">🌐 Portfolio</h3>
-<p align="left">
-  <a href="https://gianpedev-portafolio.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
-  </a>
-</p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+
 
 - 🌱 I’m currently learning Web Development and other programming languages
 
 - 📫 How to reach me **Giepeton558@gmail.com**
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
-<h1><a href="https://gianpedev-portafolio.vercel.app/">Portafolio</a></h1>
+<h3 align="left">🌐 Portfolio</h3>
+<p align="left">
+  <a href="https://gianpedev-portafolio.vercel.app/" target="_blank">
+    👉 Visit my portfolio
+  </a>
+</p>
 <br>
 
 <h3 align="left">Connect with me:</h3>
@@ -93,4 +94,4 @@
 
 
 
-
+donde esta el portafolio que se vea bien integrado con lo demas
